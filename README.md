@@ -18,6 +18,7 @@ Simple RAG based app
 ### Data ingestion
 ```bash
   python populate_database.py
+  python populate_database.py --reset
 ```
 
 ### Query data
