@@ -3,6 +3,11 @@ Simple RAG based app
 
 ![rag architecture](./assets/rag.png)
 
+## Todo
+ - Store chunk hash in metadata to compare if the content changed.
+ - Review chunk size
+ - Exclude not relevant chunks from prompt (min similarity)
+
 # Setup
 
 ### Dependencies
