@@ -17,7 +17,7 @@ Simple RAG based app
 
 ### Query data
 ```bash
-  python query_data.py "prompt"
+  python query_data.py "beside the bank's money, the bank holds what?"
 ```
 
 ### Env
