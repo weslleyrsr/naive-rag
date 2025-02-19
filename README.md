@@ -5,7 +5,6 @@ Simple RAG based app
 
 # Setup
 
----
 ### Dependencies
 ```bash
   pip install -r requirements.txt
@@ -26,10 +25,7 @@ Simple RAG based app
 OPENAI_API_KEY=<your-api-key>
 ```
 
-
 # References
-
----
  - [PyPDFDirectoryLoader](https://python.langchain.com/api_reference/community/document_loaders/langchain_community.document_loaders.pdf.PyPDFDirectoryLoader.html#langchain_community.document_loaders.pdf.PyPDFDirectoryLoader)
  - [Text splitters](https://python.langchain.com/api_reference/text_splitters/index.html)
  - [Chromadb](https://python.langchain.com/api_reference/community/vectorstores/langchain_community.vectorstores.chroma.Chroma.html)
